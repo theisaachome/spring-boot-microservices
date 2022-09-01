@@ -1,1 +1,1 @@
-# spring-cloud-microservices
+# spring-boot-microservices
